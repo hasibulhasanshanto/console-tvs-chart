@@ -1,0 +1,18 @@
+{
+    "name": "hasibulhasanshanto/consoletvs",
+    "description": "The missing charting library on laravel, powered by Chartisan",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hasibulhasanshanto\\Consoletvs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hasibul Hasan Shanto",
+            "email": "hasibulhasan.kajal@gmail.com"
+        }
+    ],
+    "require": {}
+}
